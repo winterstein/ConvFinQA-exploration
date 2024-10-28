@@ -1,0 +1,5 @@
+Reading: operation_list.txt
+Reading: constant_list.txt
+Reading /home/winterwell/external/ConvFinQA/data/train_turn.json
+Reading /home/winterwell/external/ConvFinQA/data/dev_turn.json
+Reading /home/winterwell/external/ConvFinQA/data/test_turn_private.json

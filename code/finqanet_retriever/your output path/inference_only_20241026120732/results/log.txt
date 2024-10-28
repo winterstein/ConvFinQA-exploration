@@ -1,0 +1,3 @@
+Reading: operation_list.txt
+Reading: constant_list.txt
+Reading your project pathdata/train_turn.json
